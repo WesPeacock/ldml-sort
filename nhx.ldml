@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ldml>
+	<identity>
+		<version number="" />
+		<generation date="2021-06-23T20:12:17Z" />
+		<language type="nhx" />
+		<special xmlns:sil="urn://www.sil.org/ldml/0.1">
+			<sil:identity windowsLCID="1033" />
+		</special>
+	</identity>
+	<characters>
+		<exemplarCharacters>['\-A-Z`-z\u00B2\u00B3\u00B9\u200C\u200D\u2070\u2074-\u2079\uA78B\uA78C{A\u0301}{A\u0331}{A\u0331\u0301}{E\u0301}{E\u0331}{E\u0331\u0301}{I\u0301}{I\u0331}{I\u0331\u0301}{N\u0303}{O\u0301}{O\u0331}{O\u0331\u0301}{U\u0301}{U\u0308}{U\u0331}{U\u0331\u0301}{a\u0301}{a\u0331}{a\u0331\u0301}{e\u0301}{e\u0331}{e\u0331\u0301}{i\u0301}{i\u0331}{i\u0331\u0301}{n\u0303}{o\u0301}{o\u0331}{o\u0331\u0301}{u\u0301}{u\u0308}{u\u0331}{u\u0331\u0301}]</exemplarCharacters>
+		<exemplarCharacters type="punctuation">[!-#(),.\:-&lt;&gt;-@\[\]\{\}\u00A1\u00AB\u00BB\u00BF\u2039\u203A]</exemplarCharacters>
+	</characters>
+	<collations>
+		<defaultCollation>standard</defaultCollation>
+		<collation type="standard">
+			<cr><![CDATA[& a < á <<< Á
+& á < a̱ <<< A̱
+& a̱ < á̱ <<< Á̱
+& e < é <<< É
+& é < e̱ <<< E̱
+& e̱ < é̱ <<< É̱
+& i < ï <<< Ï
+& ï < í <<< Í
+& í < i̱ <<< I̱
+& i̱ < í̱ <<< Í̱
+& N < ñ <<< Ñ
+& o < ó <<< Ó
+& ó < o̱ <<< O̱
+& o̱ < ó̱ <<< Ó̱
+& u < ü <<< Ü
+& ü < ú <<< Ú
+& ú < u̱ <<< U̱
+& u̱ < ú̱ <<< Ú̱]]></cr>
+		</collation>
+	</collations>
+	<special xmlns:sil="urn://www.sil.org/ldml/0.1">
+		<sil:external-resources>
+			<sil:font name="Charis SIL AmArea" types="default" />
+		</sil:external-resources>
+	</special>
+	<layout>
+		<orientation>
+			<characterOrder>left-to-right</characterOrder>
+		</orientation>
+	</layout>
+</ldml>
