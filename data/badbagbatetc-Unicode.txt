@@ -1,0 +1,103 @@
+a) test for vowel diacritics
+bad (a)
+bád (a acute)
+ba̱d (a macronbelow)
+bá̱d (a acute macronbelow)
+bag (a)
+bág (a acute)
+ba̱g (a macronbelow)
+bá̱g (a acute macronbelow)
+bat (a)
+bát (a acute)
+ba̱t (a macronbelow)
+bá̱t (a acute macronbelow)
+bed (e)
+béd (e acute)
+be̱d (e macronbelow)
+bé̱d (e acute macronbelow)
+beg (e)
+bég (e acute)
+be̱g (e macronbelow)
+bé̱g (e acute macronbelow)
+bet (e)
+bét (e acute)
+bea (e macronbelow)
+bé̱t (e acute macronbelow)
+bid (i)
+bíd (i acute)
+bi̱d (i macronbelow)
+bí̱d (i acute macronbelow)
+big (i)
+bíg (i acute)
+bi̱g (i macronbelow)
+bí̱g (i acute macronbelow)
+bit (i)
+bít (i acute)
+bi̱t (i macronbelow)
+bí̱t (i acute macronbelow)
+bod (o)
+bód (o acute)
+bo̱d (o macronbelow)
+bó̱d (o acute macronbelow)
+bog (o)
+bóg (o acute)
+bo̱g (o macronbelow)
+bó̱g (o acute macronbelow)
+bot (o)
+bót (o acute)
+bo̱t (o macronbelow)
+bó̱t (o acute macronbelow)
+bud (u)
+búd (u acute)
+bu̱d (u macronbelow)
+bú̱d (u acute macronbelow)
+bug (u)
+búg (u acute)
+bu̱g (u macronbelow)
+bú̱g (u acute macronbelow)
+but (u)
+bút (u acute)
+bu̱t (u macronbelow)
+bú̱t (u acute macronbelow)
+
+
+check for ch as a separate letter
+cat
+chat
+chit
+chum
+cinammon
+cook
+cut
+
+ll as a single letter
+cala
+caliente
+callado
+callate
+calle
+calloso
+calma
+calor
+caluroso
+
+
+ñ
+senador
+señal
+sencillo
+señor
+seno
+sentarse
+sequel
+serrated
+
+sh
+sat
+sit
+solo
+shake
+shot
+shut
+suit
+
