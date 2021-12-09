@@ -1,29 +1,17 @@
-# README #
+# LDML-Sort #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo contains a Python program to perform a line sort on STDIN using a collating sequence from Unicode Locale Data Markup Language (LDML) file.
 
-### What is this repository for? ###
+If no LDML file is specified, the program sorts using the  Default Unicode Collation Element Table (DUCET)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+By default, the data is normalized before sorting.
 
-### How do I get set up? ###
+### Bugs
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+This program is mostly a proof of concept, illustrating simple LDML collation extraction and sorting of STDIN.
 
-### Contribution guidelines ###
+I'm not sure it handles line endings properly.
 
-* Writing tests
-* Code review
-* Other guidelines
+No error handling of the LDML (e.g. more than one *collation*)
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+No error handling for invalid Unicode data.
