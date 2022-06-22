@@ -1,6 +1,6 @@
 # LDML-Sort #
 
-This repo contains a Python program to perform a line sort on STDIN using a collating sequence from Unicode Locale Data Markup Language (LDML) file.
+This repo contains a Python program to perform a line sort on STDIN using a collating sequence from a Unicode Locale Data Markup Language (LDML) file.
 
 If no LDML file is specified, the program sorts using the  Default Unicode Collation Element Table (DUCET)
 
