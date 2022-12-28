@@ -2,7 +2,7 @@
 
 This repo contains a Python program to perform a line sort on STDIN using a collating sequence from a Unicode Locale Data Markup Language (LDML) file.
 
-If no LDML file is specified, the program sorts using the  Default Unicode Collation Element Table (DUCET)
+If no LDML file is specified, the program sorts using the CLDR Collation Algorithm.
 
 By default, the data is normalized before sorting.
 
